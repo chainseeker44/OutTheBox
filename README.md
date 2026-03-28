@@ -22,6 +22,10 @@ bash bootstrap.sh
 # Edit USER.md, IDENTITY.md, and MEMORY.md
 ```
 
+## 📖 Read the Playbook
+
+**[PLAYBOOK.md](PLAYBOOK.md)** — The complete guide to running OpenClaw effectively. Covers workspace architecture, memory system, corrections loop, security, cron jobs, sub-agent delegation, and daily workflow patterns. Read this first.
+
 ## What's Inside
 
 ### Root Files (the brain)
