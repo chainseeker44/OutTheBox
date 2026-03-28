@@ -1,0 +1,17 @@
+{
+  "name": "food-guide",
+  "version": "1.0.0",
+  "description": "Personal restaurant database with social review aggregation",
+  "main": "guide.js",
+  "type": "module",
+  "bin": {
+    "food": "./guide.js"
+  },
+  "scripts": {
+    "test": "node guide.js search --cuisine italian"
+  },
+  "dependencies": {},
+  "keywords": ["restaurant", "food", "guide", "reviews"],
+  "author": "Clawd",
+  "license": "MIT"
+}
